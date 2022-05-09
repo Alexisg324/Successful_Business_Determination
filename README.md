@@ -20,7 +20,7 @@ Install Software: pip install pandas pip install pathlib pip install jupyter lab
 
 Installation Import Dependancies:
 
-![]()
+![](https://github.com/Alexisg324/Successful_Business_Determination/blob/main/Imports.png)
 
 ## Usage
 
@@ -29,13 +29,13 @@ As a user, I want to know whether or not a business will be successful based on 
 To use this application, the user will launch in google colabs.  
 
 The CSV files are read:
-![]()
+![](https://github.com/Alexisg324/Successful_Business_Determination/blob/main/CSV.png)
 
 Accuracy scores are displayed per model: 
-![]()
+![](https://github.com/Alexisg324/Successful_Business_Determination/blob/main/Accuracy_scores.png)
 
 Accuracy scored (cont.) and save CSV file: 
-![]()
+![](https://github.com/Alexisg324/Successful_Business_Determination/blob/main/save.png)
 
 ## Contributers 
 
